@@ -142,11 +142,6 @@ a {
   text-decoration: none;
 }
 
-.nav a::before {
-  content: "./";
-  color: var(--faint);
-}
-
 .nav a:hover {
   color: var(--term-text);
 }

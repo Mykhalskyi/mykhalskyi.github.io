@@ -1,0 +1,12 @@
+# Ihor Mykhalskyi
+
+> Software Engineer with 9+ years of experience designing and developing backend systems, cloud-based applications and distributed services using C# and .NET (ASP.NET Core, AWS, Azure, microservices). Hands-on experience with LLM-based Retrieval-Augmented Generation (RAG), AI-powered developer tools, and data migration and synchronization pipelines.
+
+- Current role: Senior .NET Developer at DataArt (since Apr 2025)
+- Contact: ihor.mykhalskyi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ihor-mykhalskyi-ab1545160/
+
+## Resume
+
+- [Full resume (Markdown)](https://mykhalskyi.github.io/resume.md): experience, projects, achievements, technical skills and education
+- [Website](https://mykhalskyi.github.io/): the same resume as an HTML page
